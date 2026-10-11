@@ -40,7 +40,7 @@ to-do-list/
 
 - Faça o download ou clone este repositório:  
    ```
-   git clone https://github.com/seuusuario/to-do-list.git
+   git clone https://github.com/fesqueira/to-do-list.git
   ```
 - Acesse a pasta do projeto
 - Clique duas vezes em **"index.html"**
